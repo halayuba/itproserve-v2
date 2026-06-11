@@ -50,7 +50,7 @@ export default function Navbar() {
       >
         <div className="mx-auto flex max-w-7xl items-center justify-between px-5 sm:px-8">
           <a href="#top" className="flex items-center gap-3" aria-label="ITproSERVE home">
-            <img src="/logo.svg" alt="ITproSERVE" className="h-10 w-auto sm:h-12" />
+            <img src="/logo.svg" alt="ITproSERVE" className="h-18 w-auto sm:h-20" />
           </a>
 
           <nav className="hidden items-center gap-8 md:flex" aria-label="Primary">

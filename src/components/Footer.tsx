@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-5 py-12 sm:px-8">
         <div className="flex flex-col items-start justify-between gap-8 sm:flex-row sm:items-center">
           <a href="#top" aria-label="Back to top">
-            <img src="/logo.svg" alt="ITproSERVE" className="h-12 w-auto" />
+            <img src="/logo.svg" alt="ITproSERVE" className="h-18 w-auto" />
           </a>
           <nav className="flex flex-wrap gap-x-7 gap-y-3" aria-label="Footer">
             {LINKS.map((l) => (

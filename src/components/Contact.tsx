@@ -72,6 +72,16 @@ export default function Contact() {
               <li className="flex items-center gap-3">
                 <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-teal-brand/10 text-teal-brand">
                   <svg viewBox="0 0 20 20" className="h-4.5 w-4.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M17.5 3.5a1.9 1.9 0 0 0-2.7-.2l-2.4 2.1a1.3 1.3 0 0 0-.2 1.7l1 1.6A13 13 0 0 1 9.3 8a12.8 12.8 0 0 1-3.7-.5l1.6-1a1.3 1.3 0 0 0 .6-1.6l-1-2.4a1.9 1.9 0 0 0-2.4-1L2 2.2a2 2 0 0 0-1.4 2.3A17.2 17.2 0 0 0 13 19.4a2 2 0 0 0 2.3-1.4l.5-1.4a1.9 1.9 0 0 0-.6-2Z" />
+                  </svg>
+                </span>
+                <a href="tel:+19137558655" className="transition-colors hover:text-white">
+                  (913) 755-8655
+                </a>
+              </li>
+              <li className="flex items-center gap-3">
+                <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-teal-brand/10 text-teal-brand">
+                  <svg viewBox="0 0 20 20" className="h-4.5 w-4.5" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
                     <path d="M10 18s6-5.1 6-9.5A6 6 0 0 0 4 8.5C4 12.9 10 18 10 18z" />
                     <circle cx="10" cy="8.5" r="2" />
                   </svg>
